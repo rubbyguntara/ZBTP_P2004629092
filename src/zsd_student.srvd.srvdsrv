@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition Student'
+define service ZSD_STUDENT {
+  expose ZCDS_STUDENT as STUDENT;
+}
